@@ -1,0 +1,1 @@
+"conda activate D:\3-rd-Year\Y4S1\Reserch\app\.venv" 
